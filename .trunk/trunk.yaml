@@ -8,7 +8,7 @@ cli:
   version: 0.16.1-beta.7
 merge:
   statuses:
-    - buildkite/baseweb-pr
+    - buildkite/baseweb-merge
 lint:
   enabled:
     - eslint@8.23.0
