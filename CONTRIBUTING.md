@@ -64,7 +64,7 @@ yarn tsc
 ### Linting
 
 ```bash
-yarn lint
+trunk check --fix
 ```
 
 ## Documentation
