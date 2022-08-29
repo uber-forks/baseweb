@@ -1,6 +1,6 @@
 {
   "MD004": {
-    "style": "asterisk"
+    "style": "consistent"
   },
   "MD033": false,
   "line-length": false
